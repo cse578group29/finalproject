@@ -1,0 +1,32 @@
+var postsData = [
+  {
+    "year": 2004,
+    "stats": [
+      {
+        "round": "Final",
+        "matches": [
+          {
+            'US': 20,
+            'RU': 70,
+            'DE': 120,
+            'CN': 90,
+            'UK': 30
+          }
+        ]
+      },
+      {
+        "round": "semi",
+        "matches": [
+          {
+            'US': 90,
+            'RU': 40,
+            'DE': 10,
+            'CN': 20,
+            'UK': 80
+          }
+        ]
+      }
+    ]
+  }
+
+]

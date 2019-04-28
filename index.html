@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <style>
+
+        #GeneralTitle{
+        font: 20px sans-serif;
+        text-align: center;
+    }</style>
+</head>
+<div style="text-align:center;">
+    <h1 id="GeneralTitle">What Topics are RISING in AI? <br />
+        Introspection of Stack Overflow Q&A and Visualization
+    </h1>
+    <p>
+        Xue Hu, Zhen Zeng, Lecheng Zheng, Yantian Zha
+        <br>
+        School of CIDSE, Arizona State University<br>
+        
+    </p>
+</div>
+<br><hr>
+
+<iframe src="stream/stream.html" onload='javascript:(function(o){
+    o.style.height=o.contentWindow.document.body.scrollHeight+"px";
+    o.style.width=o.contentWindow.document.body.scrollWidth+"px"}(this));
+' style="width:99.5%;border:none;overflow:hidden;"></iframe><br><hr>
+<div align="center">
+    <iframe src="radar/main.html"
+        onload='javascript:(function(o)
+        {o.style.height=o.contentWindow.document.body.scrollHeight+121+"px";}(this));'
+        style="width:40%;border:none;overflow:hidden;border-style:solid;">
+    </iframe>
+    <iframe src="word cloud/index.html"
+        onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));'  
+        style="width:40%;border:none;overflow:hidden;border-style:solid">
+    </iframe><br><hr>
+<iframe src="worldmap/index.html" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="width:99%;border:none;overflow:hidden;"></iframe>
+
+</div>
+
+<hr>
+<div style="margin: 3%">
+    In this project, we propose the problem of observing what research topics are likely to gain more popularity in near future. We use Stack Overflow dataset with questions and answers from AI practitioners to extract salient information. We contribute to AI researches a visual advisor by interactively providing illustrating information in an intuitive and vivid fashion. From our project we can observe that deep learning is the most popular area and areas such as deep learning, reinforcement learning and game AI are becoming more and more popular with time, especially after 2018 (the plots of Trends of Representative Fields and the radar chart). In the world map visualization, we can observe that the machine learning field has been followed by more researchers and developers over the world. From the word cloud, the key words of 'neural network' has always been among the list of the hottest topics since 2016, and the font of this key words also suggests that the word of 'neural network' is used by many users in the Stack Overflow.
+</div>
+</html>

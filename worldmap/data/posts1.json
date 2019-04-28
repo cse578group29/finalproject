@@ -1,0 +1,70 @@
+var postsData1 = [
+   {
+      "year":2004,
+      "stats":[
+         {
+            "round":"Final",
+            "matches":[{id: 'US', value: 20}, {id: 'RU', value: 70}, {id: 'DE', value: 120}, {id: 'CN', value: 90}, {id: 'UK', value: 30}]
+         },
+         {
+            "round":"semi",
+            "matches":[{id: 'US', value: 20}, {id: 'RU', value: 40}, {id: 'DE', value: 120}, {id: 'CN', value: 60}, {id: 'UK', value: 80}]
+         }
+      ]
+   },
+   {
+      "year": 2005,
+      "stats": [
+         {
+            "round": "Final",
+            "matches": [
+               {
+                  id: 'US',
+                  value: 120
+               },
+               {
+                  id: 'RU',
+                  value: 70
+               },
+               {
+                  id: 'DE',
+                  value: 120
+               },
+               {
+                  id: 'CN',
+                  value: 90
+               },
+               {
+                  id: 'UK',
+                  value: 30
+               }
+            ]
+         },
+         {
+            "round": "semi",
+            "matches": [
+               {
+                  id: 'US',
+                  value: 20
+               },
+               {
+                  id: 'RU',
+                  value: 40
+               },
+               {
+                  id: 'DE',
+                  value: 120
+               },
+               {
+                  id: 'CN',
+                  value: 60
+               },
+               {
+                  id: 'UK',
+                  value: 80
+               }
+            ]
+         }
+      ]
+   }
+]

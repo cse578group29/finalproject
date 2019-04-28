@@ -1,0 +1,193 @@
+,topics,date,topic_count
+32,deep learning,2016-08-01,59
+33,deep learning,2016-09-01,34
+34,deep learning,2016-10-01,27
+35,deep learning,2016-11-01,19
+36,deep learning,2016-12-01,18
+37,deep learning,2017-01-01,30
+38,deep learning,2017-02-01,40
+39,deep learning,2017-03-01,32
+40,deep learning,2017-04-01,30
+41,deep learning,2017-05-01,40
+42,deep learning,2017-06-01,37
+43,deep learning,2017-07-01,34
+44,deep learning,2017-08-01,56
+45,deep learning,2017-09-01,57
+46,deep learning,2017-10-01,56
+47,deep learning,2017-11-01,46
+48,deep learning,2017-12-01,56
+49,deep learning,2018-01-01,223
+50,deep learning,2018-02-01,63
+51,deep learning,2018-03-01,87
+52,deep learning,2018-04-01,94
+53,deep learning,2018-05-01,74
+54,deep learning,2018-06-01,73
+55,deep learning,2018-07-01,80
+56,deep learning,2018-08-01,124
+57,deep learning,2018-09-01,197
+58,deep learning,2018-10-01,134
+59,deep learning,2018-11-01,94
+60,deep learning,2018-12-01,108
+61,deep learning,2019-01-01,143
+62,deep learning,2019-02-01,111
+63,deep learning,2019-03-01,7
+64,optimization,2016-08-01,7
+65,optimization,2016-09-01,6
+66,optimization,2016-10-01,3
+67,optimization,2016-11-01,5
+68,optimization,2016-12-01,8
+69,optimization,2017-01-01,5
+70,optimization,2017-02-01,11
+71,optimization,2017-03-01,7
+72,optimization,2017-04-01,9
+73,optimization,2017-05-01,5
+74,optimization,2017-06-01,3
+75,optimization,2017-07-01,5
+76,optimization,2017-08-01,7
+77,optimization,2017-09-01,10
+78,optimization,2017-10-01,8
+79,optimization,2017-11-01,7
+80,optimization,2017-12-01,6
+81,optimization,2018-01-01,50
+82,optimization,2018-02-01,7
+83,optimization,2018-03-01,16
+84,optimization,2018-04-01,11
+85,optimization,2018-05-01,8
+86,optimization,2018-06-01,5
+87,optimization,2018-07-01,10
+88,optimization,2018-08-01,17
+89,optimization,2018-09-01,34
+90,optimization,2018-10-01,14
+91,optimization,2018-11-01,33
+92,optimization,2018-12-01,20
+93,optimization,2019-01-01,12
+94,optimization,2019-02-01,9
+95,optimization,2019-03-01,2
+96,nlp,2016-08-01,15
+97,nlp,2016-09-01,10
+98,nlp,2016-10-01,3
+99,nlp,2016-11-01,8
+100,nlp,2016-12-01,5
+101,nlp,2017-01-01,5
+102,nlp,2017-02-01,10
+103,nlp,2017-03-01,5
+104,nlp,2017-04-01,8
+105,nlp,2017-05-01,2
+106,nlp,2017-06-01,8
+107,nlp,2017-07-01,9
+108,nlp,2017-08-01,6
+109,nlp,2017-09-01,3
+110,nlp,2017-10-01,7
+111,nlp,2017-11-01,11
+112,nlp,2017-12-01,8
+113,nlp,2018-01-01,43
+114,nlp,2018-02-01,16
+115,nlp,2018-03-01,13
+116,nlp,2018-04-01,8
+117,nlp,2018-05-01,9
+118,nlp,2018-06-01,11
+119,nlp,2018-07-01,9
+120,nlp,2018-08-01,18
+121,nlp,2018-09-01,33
+122,nlp,2018-10-01,10
+123,nlp,2018-11-01,15
+124,nlp,2018-12-01,15
+125,nlp,2019-01-01,12
+126,nlp,2019-02-01,12
+127,nlp,2019-03-01,2
+128,reinforcement learning,2016-08-01,4
+129,reinforcement learning,2016-09-01,2
+129,reinforcement learning,2016-10-01,0
+130,reinforcement learning,2016-11-01,4
+131,reinforcement learning,2016-12-01,2
+132,reinforcement learning,2017-01-01,1
+133,reinforcement learning,2017-02-01,4
+134,reinforcement learning,2017-03-01,1
+135,reinforcement learning,2017-04-01,6
+136,reinforcement learning,2017-05-01,6
+137,reinforcement learning,2017-06-01,3
+138,reinforcement learning,2017-07-01,5
+139,reinforcement learning,2017-08-01,12
+140,reinforcement learning,2017-09-01,3
+141,reinforcement learning,2017-10-01,9
+142,reinforcement learning,2017-11-01,4
+143,reinforcement learning,2017-12-01,20
+144,reinforcement learning,2018-01-01,35
+145,reinforcement learning,2018-02-01,11
+146,reinforcement learning,2018-03-01,15
+147,reinforcement learning,2018-04-01,16
+148,reinforcement learning,2018-05-01,17
+149,reinforcement learning,2018-06-01,22
+150,reinforcement learning,2018-07-01,25
+151,reinforcement learning,2018-08-01,36
+152,reinforcement learning,2018-09-01,36
+153,reinforcement learning,2018-10-01,38
+154,reinforcement learning,2018-11-01,47
+155,reinforcement learning,2018-12-01,30
+156,reinforcement learning,2019-01-01,47
+157,reinforcement learning,2019-02-01,101
+158,reinforcement learning,2019-03-01,3
+159,self-drving or robotics,2016-08-01,17
+160,self-drving or robotics,2016-09-01,9
+161,self-drving or robotics,2016-10-01,7
+162,self-drving or robotics,2016-11-01,4
+163,self-drving or robotics,2016-12-01,3
+164,self-drving or robotics,2017-01-01,6
+165,self-drving or robotics,2017-02-01,4
+166,self-drving or robotics,2017-03-01,2
+167,self-drving or robotics,2017-04-01,2
+168,self-drving or robotics,2017-05-01,3
+169,self-drving or robotics,2017-06-01,5
+170,self-drving or robotics,2017-07-01,1
+171,self-drving or robotics,2017-08-01,3
+172,self-drving or robotics,2017-09-01,3
+173,self-drving or robotics,2017-10-01,10
+174,self-drving or robotics,2017-11-01,4
+175,self-drving or robotics,2017-12-01,7
+176,self-drving or robotics,2018-01-01,13
+177,self-drving or robotics,2018-02-01,11
+178,self-drving or robotics,2018-03-01,4
+179,self-drving or robotics,2018-04-01,7
+180,self-drving or robotics,2018-05-01,4
+181,self-drving or robotics,2018-06-01,5
+182,self-drving or robotics,2018-07-01,7
+183,self-drving or robotics,2018-08-01,5
+184,self-drving or robotics,2018-09-01,19
+185,self-drving or robotics,2018-10-01,25
+186,self-drving or robotics,2018-11-01,15
+187,self-drving or robotics,2018-12-01,9
+188,self-drving or robotics,2019-01-01,8
+189,self-drving or robotics,2019-02-01,7
+189,self-drving or robotics,2019-03-01,0
+190,game-ai,2016-08-01,10
+191,game-ai,2016-09-01,4
+192,game-ai,2016-10-01,4
+192,game-ai,2016-11-01,4
+193,game-ai,2016-12-01,3
+194,game-ai,2017-01-01,4
+195,game-ai,2017-02-01,8
+196,game-ai,2017-03-01,5
+197,game-ai,2017-04-01,3
+198,game-ai,2017-05-01,5
+199,game-ai,2017-06-01,5
+200,game-ai,2017-07-01,3
+201,game-ai,2017-08-01,8
+202,game-ai,2017-09-01,16
+203,game-ai,2017-10-01,8
+204,game-ai,2017-11-01,9
+205,game-ai,2017-12-01,14
+206,game-ai,2018-01-01,38
+207,game-ai,2018-02-01,13
+208,game-ai,2018-03-01,11
+209,game-ai,2018-04-01,20
+210,game-ai,2018-05-01,11
+211,game-ai,2018-06-01,13
+212,game-ai,2018-07-01,18
+213,game-ai,2018-08-01,22
+214,game-ai,2018-09-01,42
+215,game-ai,2018-10-01,17
+216,game-ai,2018-11-01,15
+217,game-ai,2018-12-01,26
+218,game-ai,2019-01-01,17
+219,game-ai,2019-02-01,14
+219,game-ai,2019-03-01,0
